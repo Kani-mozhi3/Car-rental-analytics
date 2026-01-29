@@ -9,6 +9,7 @@ The goal is to demonstrate an end‑to‑end analytics workflow: loading raw dat
 
 ## Dataset Description
 The dataset represents sales information of a fictional car rental provider.
+
  -<a href="   ">Dataset</a>​
 
 Key fields (example):
@@ -33,5 +34,43 @@ Visualization: Microsoft Power BI for interactive reports and drill‑down analy
 
 Other: Power Query for additional transformations before loading to the data model.
 
+## Project Workflow
 
+### 1.Data Loading
+
+-Create database and tables in SQL Server for car, pricing, and sales data.
+
+-Bulk insert or import the dataset (CSV/Excel) into the staging tables.
+
+### 2.Data Cleaning & Transformation
+
+-Standardize categorical values (colors, brands, fuel types).
+​
+-Handle missing or duplicate records and validate numeric columns (price, sales).
+
+-Move clean data from staging to production tables.
+
+### 3.SQL Analysis
+
+-Aggregate metrics such as total cars, average price per brand, and count by fuel type.
+​
+
+-Create views/stored procedures to serve as a reliable data source for Power BI.
+
+### 4.Power BI Modeling & Visualization
+
+-Connect Power BI to SQL Server views.
+
+-Build measures for KPIs (total cars, revenue, % by fuel, % by status).
+
+## Key KPIs and Insights
+-Total cars in fleet and cumulative price.
+​
+-Number of brands, models, and fuel types offered.
+​
+-Car distribution by color and fuel type for inventory decisions.​
+
+-Year‑wise total sales with share of each year.
+​
+-Transmission status split between Active and Expired vehicles.
 
