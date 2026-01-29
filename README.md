@@ -78,3 +78,8 @@ Other: Power Query for additional transformations before loading to the data mod
 Quickly evaluate my hands‑on skills with SQL Server, Power Query, and Power BI in a realistic business scenario.
 
 Review my approach to data cleaning, KPI definition, and dashboard storytelling from raw data to insights.
+
+
+##Dashboard
+
+<img width="1233" height="673" alt="Car" src="https://github.com/user-attachments/assets/c819594a-6ab6-4bb9-87a0-4f10a69eb03e" />
