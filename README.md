@@ -38,9 +38,9 @@ Other: Power Query for additional transformations before loading to the data mod
 
 ### 1.Data Loading
 
--Create database and tables in SQL Server for car, pricing, and sales data.
+ -Create database and tables in SQL Server for car, pricing, and sales data.
 
--Bulk insert or import the dataset (CSV/Excel) into the staging tables.
+ -Bulk insert or import the dataset (CSV/Excel) into the staging tables.
 
 ### 2.Data Cleaning & Transformation
 
