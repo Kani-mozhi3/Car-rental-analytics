@@ -74,3 +74,7 @@ Other: Power Query for additional transformations before loading to the data mod
 ​
 -Transmission status split between Active and Expired vehicles.
 
+## Use Cases for Recruiters
+Quickly evaluate my hands‑on skills with SQL Server, Power Query, and Power BI in a realistic business scenario.
+
+Review my approach to data cleaning, KPI definition, and dashboard storytelling from raw data to insights.
